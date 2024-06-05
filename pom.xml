@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.51.28:8081/repository/pipeline-boa-snapshot/</url>
+	      <url>http://34.224.15.51:8081/repository/pipeline-boa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
