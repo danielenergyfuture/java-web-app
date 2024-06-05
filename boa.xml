@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>pipeline-web-app</finalName>
+		<finalName>pipeline-boa-web-app</finalName>
 		
 		<plugins>
 			<plugin>
